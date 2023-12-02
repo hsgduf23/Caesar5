@@ -26,4 +26,4 @@ user-agent==0.1.10
 uuid==1.30
 Werkzeug==2.1.2
 yarg==0.1.9
-telethon==4.0
+telethon==1.6.1
